@@ -56,7 +56,7 @@ requirements.txt # benötigte Python-Bibliotheken
 
 1. Repository klonen:
    ```bash
-   git clone https://github.com/DEIN-USERNAME/FinanznachrichtenAktien.git
+   git clone https://github.com/InkenOk/FinanznachrichtenAktien.git
    cd FinanznachrichtenAktien
 
 2. Virtuelle Umgebung erstellen und aktivieren (optional, empfohlen):
